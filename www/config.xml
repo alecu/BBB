@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		    = "com.nitobi.beer"
+	id		    = "ar.com.clubdejaqueo.bbb"
 	version 	= "1.0">
 
-	<name>BeerMe</name>
+	<name>BBB</name>
 
 	<description>
-        Thirsty for a beer? BeerMe will find the closest one for you!
+        Birra Barata en Baires
 	</description>
 
-	<author href="http://blogs.nitobi.com/fil"
-		email="filip.maj@nitobi.com">
-		Fil Maj
+	<author href="http://clubdejaqueo.com.ar/"
+		email="alecu@protocultura.net">
+		Alejandro J. Cura
 	</author>
 
 	<gap:platforms>
